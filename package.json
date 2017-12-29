@@ -1,0 +1,34 @@
+{
+  "name": "gl-react-native-filters",
+  "version": "1.0.0",
+  "description": "Includes the instagram filters for gl-react-native, see examples folder as the usage tip.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beqaweb/gl-react-native-filters.git"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.51.0",
+    "gl-react": "^3.6.0",
+    "gl-react-native": "^3.6.0",
+    "prop-types": "^15.5.10"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "gl-react",
+    "gl-react-native",
+    "filters",
+    "instagram-filters"
+  ],
+  "author": "Beqa Web, Other web developers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beqaweb/gl-react-native-filters/issues"
+  },
+  "homepage": "https://github.com/beqaweb/gl-react-native-filters#readme"
+}
